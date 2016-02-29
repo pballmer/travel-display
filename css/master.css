@@ -1,0 +1,22 @@
+.photo-tile {
+	padding-bottom: 2em;
+}
+
+.photo-details-hidden {
+	display: none;
+}
+
+.photo-details {
+	background-color: #fff;
+	position: absolute;
+	top: 10%;
+	left: 2%;
+	right: 2%;
+	border-width: 20px;
+	border-color: #fff;
+	border-style: solid;
+}
+
+.photos-details-close {
+	cursor: pointer;
+}
